@@ -49,14 +49,18 @@
  
   <img align="center" alt="REACT" height="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
  
-  <img align="center" alt="Gab-HTML" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  
-  <img align="center" alt="Gab-CSS" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="32"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
   <img align="center" alt="GIT" height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   
  
   <img align="center" alt="NODE" height="36"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+ 
+ <img align="center" alt="SASS" height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+ 
+
  
  
  <br><br>
