@@ -13,7 +13,7 @@
  
  <kbd>
   
- <img align="center" height="220em" width="500em"  src="https://media1.giphy.com/media/SF4WntWpF7VZjYNA1B/giphy.gif?cid=790b76110e0ff6650b2f0422b8c1f403dc668a742fd6d722&rid=giphy.gif&ct=g" alt="myback">
+ <img align="center" height="200em" width="400em"  src="https://media1.giphy.com/media/SF4WntWpF7VZjYNA1B/giphy.gif?cid=790b76110e0ff6650b2f0422b8c1f403dc668a742fd6d722&rid=giphy.gif&ct=g" alt="myback">
  </div>
  
  </kbd>
