@@ -51,7 +51,7 @@
  
   <img align="center" alt="NODEJS" height="39"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
  
- <img align="center" alt="SASS" height="48"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+ <img align="center" alt="NEXTJS" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
  
 
  
