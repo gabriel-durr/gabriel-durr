@@ -1,16 +1,16 @@
 <h2 align="left"> <code>Hi! Gabriel here</code> 👨‍💻✨ </h2>
 <br><br>
 
-<p align="center"> 
+
  
-       my name is Gabriel Dürr, I'm a technology student, more specifically in the area of software developme
+       my name is Gabriel Dürr, I'm a technology student, more specifically in the area of software developmet
 
        - I am currently working on personal projects, focusing on learning and developing my skills 🛸⚡
 
-       - One day I want to change the lives of many people with my knowledge and experience. 🖤
- 
- </p>
+       - I will change the lives of many people with my knowledge and experience. 🖤  
 
+ 
+     
 
 
  
