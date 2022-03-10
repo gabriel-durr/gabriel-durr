@@ -1,13 +1,18 @@
-<h2 align="center"> <code>Hi! Gabriel here</code> 👨‍💻✨ </h2>
+<h2 align="left"> <code>Hi! Gabriel here</code> 👨‍💻✨ </h2>
 <br><br>
 
-<h4 align="center"> I'm a front-end developer 🖤 
+<p align="center"> 
  
+       my name is Gabriel Dürr, I'm a technology student, more specifically in the area of software developme
+
+       - I am currently working on personal projects, focusing on learning and developing my skills 🛸⚡
+
+       - One day I want to change the lives of many people with my knowledge and experience. 🖤
  
- I'm studying <em> React JS </em> for web development, <em> React Native </em> and other technologies to start developing  mobile projects </h4>
+ </p>
 
 
-<hr size="10" width="100%" align="center" noshade>
+
  
  
  <br><br>
