@@ -4,7 +4,7 @@
 <h4 align="center"> I'm a front-end developer 🖤 
  
  
- I'm studying <em> React JS </em> for web development <em> React Native </em> and other technologies to start developing  mobile projects </h4>
+ I'm studying <em> React JS </em> for web development, <em> React Native </em> and other technologies to start developing  mobile projects </h4>
 
 
 <hr size="10" width="100%" align="center" noshade>
