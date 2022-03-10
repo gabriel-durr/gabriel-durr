@@ -1,40 +1,33 @@
-### <code>Hi! Gabriel here</code> 👨‍💻✨
+<h2 align="center"> <code>Hi! Gabriel here</code> 👨‍💻✨ </h2>
 <br>
 
-#### I'm a *front-end* developer 🖤 
-
-#### I'm studying React JS *for web development* <br>
-#### React Native and other technologies to start developing  *mobile projects* 📖🚀</h4>
-
-
- <hr size="1" width="60%" align="center" noshade><br>
+<h4 align="center"> I'm a front-end developer 🖤 
  
- <div style="display: inline_block">
+ 
+ I'm studying <em> React JS </em> for web development <em> React Native </em> and other technologies to start developing  mobile projects </h4>
+
+
+
+ <hr align="center" size="5" width="100%"  noshade><br>
+ 
+ <div align="center" style="display: inline_block">
  
  <kbd>
   
- <img align="center" height="200em" width="400em"  src="https://media1.giphy.com/media/SF4WntWpF7VZjYNA1B/giphy.gif?cid=790b76110e0ff6650b2f0422b8c1f403dc668a742fd6d722&rid=giphy.gif&ct=g" alt="myback">
- </div>
- 
+ <img align="center" height="150em" width="350em"  src="https://media1.giphy.com/media/SF4WntWpF7VZjYNA1B/giphy.gif?cid=790b76110e0ff6650b2f0422b8c1f403dc668a742fd6d722&rid=giphy.gif&ct=g" alt="myback">
+
  </kbd>
  
+  </div>
  
- <br><br><br>
  
+ <br>
  
- <div style="display: inline_block">
-  
-  <a href="https://github.com/gabriel-durr">
-   
-  <img align="center" height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-durr&layout=compact&langs_count=7&theme=swift&border_radius=35&border_color=a28e2&title_color=D4AF37">
-
-</div>
-
   
 <br>
 
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   
   <img align="center" alt="JS" height="32"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  
@@ -53,16 +46,24 @@
  
  <img align="center" alt="ANDROID" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
  
-
  
- 
- <br><br>
- 
-
   
 </div>
 
-<div style="display: inline-block">
+ <br>
+ 
+
+ <div align="center" style="display: inline_block">
+  
+  <a href="https://github.com/gabriel-durr">
+   
+  <img align="center" height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-durr&layout=compact&langs_count=7&theme=swift&border_radius=35&border_color=a28e2&title_color=D4AF37">
+
+</div>
+ 
+ <br>
+
+<div align="center" style="display: inline-block">
 
 ### Contact ⚡
     
