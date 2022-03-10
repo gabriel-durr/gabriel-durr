@@ -1,5 +1,5 @@
 <h2 align="center"> <code>Hi! Gabriel here</code> 👨‍💻✨ </h2>
-<br>
+<br><br>
 
 <h4 align="center"> I'm a front-end developer 🖤 
  
@@ -7,8 +7,10 @@
  I'm studying <em> React JS </em> for web development <em> React Native </em> and other technologies to start developing  mobile projects </h4>
 
 
-
- <hr align="center" size="5" width="100%"  noshade><br>
+<hr size="10" width="100%" align="center" noshade>
+ 
+ 
+ <br><br>
  
  <div align="center" style="display: inline_block">
  
