@@ -3,11 +3,11 @@
 
 
  
-        my name is Gabriel Dürr, I'm a technology student, more specifically in the area of software developmet
-
-          - I am currently working on personal projects, focusing on learning and developing my skills 🛸⚡
-
-          - I will change the lives of many people with my knowledge and experience. 🖤  
+        my name is Gabriel Dürr, I'm a technology student,  Web developer and cross-platform mobile development student. 
+           
+           - I love learning things related to technology and seeing them work in practice.
+           - I am currently working on personal projects, focusing on learning and developing my skills 🛸⚡
+           - I will change the lives of many people with my knowledge and experience. 🖤  
  
      
 
