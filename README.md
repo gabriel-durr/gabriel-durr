@@ -1,9 +1,9 @@
-<h2 align="center"> <code>Hi! Gabriel here</code> 👨‍💻✨ </h2>
+<h2 align="center"> <code>Hi welcome</code> 👨‍💻✨ </h2>
 <br><br>
 
 
  
-        My name is Gabriel Dürr, I'm a  web developer and cross-platform mobile development student. 
+           My name is Gabriel Dürr, I'm a  web developer and cross-platform mobile development student. 
            
            - I love learning things related to technology and seeing them work in practice.
            - I am currently working on personal projects, focusing on learning and developing my skills 🛸⚡
