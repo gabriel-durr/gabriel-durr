@@ -54,7 +54,6 @@
  
   <img align="center" alt="NODEJS" height="39"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
  
- <img align="center" alt="ANDROID" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
  
 
  
