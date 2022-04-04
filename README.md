@@ -52,7 +52,7 @@
   
   <img align="center" alt="NODEJS" height="39"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
  
- <img align="center" alt="STYLED COMPONENTS" height="30"  src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png">
+ <img align="center" alt="STYLED COMPONENTS" height="29"  src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png">
  
 
  
