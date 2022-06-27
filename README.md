@@ -51,8 +51,6 @@
  
   <img align="center" alt="Figma" height="32"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
  
- <img align="center" alt="TailWindCSS" height="32"  src="https://i.imgur.com/xl5xQKS.png">
- 
  
  <img align="center" alt="StyledComponents" height="29"  src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png">
  
