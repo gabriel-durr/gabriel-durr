@@ -25,12 +25,10 @@
  </kbd>
  
   </div>
- 
- 
- <br>
- 
   
-<br>
+  
+<br/>
+<br/>
 
 
 <div align="center" style="display: inline_block">
@@ -79,10 +77,11 @@
 
 <div align="center">
 
-<h3>Contact <h3>
+<h3><b>Contact</b><h3>
 
- &nbsp; &nbsp; &nbsp; &nbsp;
- <a href="#"><img src="https://www.conquercovidak.com/wp-content/uploads/2022/01/External-Link-Arrow-300x300.png" alt="portfolio" width="35"></a>
-<a href="https://www.linkedin.com/in/gabriel-durr/"><img src="https://img.icons8.com/plasticine/452/linkedin.png" alt="Linkedin" width="60"></a>
+ &nbsp; &nbsp; 
+ <a href="#"><img src="https://i.imgur.com/PvxIOsW.png" alt="portfolio" width="45"></a>
+ <a href="https://www.linkedin.com/in/gabriel-durr/"><img src="https://img.icons8.com/plasticine/452/linkedin.png" alt="Linkedin" width="60"></a>
+ 
    
 </div>
