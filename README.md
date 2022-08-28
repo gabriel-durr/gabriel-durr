@@ -80,7 +80,7 @@
 <h3><b>Contact</b><h3>
 
  &nbsp; &nbsp; 
- <a href="#"><img src="https://i.imgur.com/PvxIOsW.png" alt="portfolio" width="44"></a>
+ <a href="https://www.gabrieldurr.site"><img src="https://i.imgur.com/PvxIOsW.png" alt="portfolio" width="44"></a>
  <a href="https://www.linkedin.com/in/gabriel-durr/"><img src="https://img.icons8.com/plasticine/452/linkedin.png" alt="Linkedin" width="60"></a>
  
    
