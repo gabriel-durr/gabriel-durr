@@ -16,15 +16,7 @@
  
  <br><br>
  
- <div align="center" style="display: inline_block">
- 
- <kbd>
-  
- <img align="center" height="150em" width="370em"  src="https://media4.giphy.com/media/eMv9sIXACKYuG7Pq27/giphy.gif?cid=790b7611d286d26497486ccf4c9579eee4be22451352ecc2&rid=giphy.gif&ct=g" alt="GifBackground">
 
- </kbd>
- 
-  </div>
   
   
 <br/>
