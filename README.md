@@ -42,13 +42,8 @@
  
  <img align="center" alt="StyledComponents" height="29"  src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png">
  
+  <img align="center" alt="StyledComponents" height="29"  src="./jest.png">
  
-
- 
-
- 
- 
-
  
  
   
