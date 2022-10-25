@@ -39,10 +39,12 @@
   <img align="center" alt="CHAKRA UI" height="34"  src="https://itelofilho.gallerycdn.vsassets.io/extensions/itelofilho/chakra-ui-cheatsheet/0.1.2/1602346378840/Microsoft.VisualStudio.Services.Icons.Default">
  
   <img align="center" alt="Figma" height="32"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  
+  <img align="center" alt="Jest" height="29"  src="./jest.png">
  
- <img align="center" alt="StyledComponents" height="29"  src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png">
+  <img align="center" alt="StyledComponents" height="29"  src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png">
  
-  <img align="center" alt="StyledComponents" height="29"  src="./jest.png">
+
  
  
  
