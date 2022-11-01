@@ -60,7 +60,7 @@
   
   <a href="https://github.com/gabriel-durr">
    
-  <img align="center" height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-durr&layout=compact&langs_count=7&theme=swift&border_radius=35&border_color=a28e2&title_color=D4AF37">
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-durr&layout=compact&langs_count=7&theme=swift&border_radius=35&border_color=a28e2&title_color=D4AF37">
 
 </div>
  
