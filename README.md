@@ -46,22 +46,17 @@
   
   <img align="center" alt="StyledComponents" height="29"  src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png">
  
-
- 
- 
- 
-  
 </div>
 
+
  <br/>
- <br>
  
 
  <div align="center" style="display: inline_block">
   
   <a href="https://github.com/gabriel-durr">
    
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-durr&layout=compact&langs_count=7&theme=swift&border_radius=35&border_color=a28e2&title_color=D4AF37">
+  <img align="center" height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-durr&layout=compact&langs_count=7&theme=swift&border_radius=35&border_color=a28e2&title_color=D4AF37">
 
 </div>
  
